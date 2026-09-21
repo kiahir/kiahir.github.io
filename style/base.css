@@ -45,12 +45,12 @@ body.menu-open #site-sidebar {
 }
 
 ::-moz-selection {
-  background: rgba(100%, 71.7254901961%, 30%, 0.7);
+  background: rgba(192, 192, 192, 0.7);
   color: #0e0e0e;
 }
 
 ::selection {
-  background: rgba(100%, 71.7254901961%, 30%, 0.7);
+  background: rgba(192, 192, 192, 0.7);
   color: #0e0e0e;
 }
 
